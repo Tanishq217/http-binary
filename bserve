@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+"""CLI entrypoint for bserve."""
+
+import os
+import sys
+
+# Ensure hbin package is importable from script directory
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from hbin.server import main
+
+if __name__ == "__main__":
+    main()
