@@ -1,0 +1,2 @@
+This is a file nested inside the sub/ subdirectory.
+Tested path traversal safety and relative resolution.

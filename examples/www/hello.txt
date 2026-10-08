@@ -1,0 +1,2 @@
+Hello from the HBIN/1 binary protocol file server!
+Pure binary framing over TCP.
