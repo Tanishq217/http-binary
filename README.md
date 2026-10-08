@@ -124,13 +124,13 @@ Ran 35 tests in 8.771s
 OK
 ```
 
-![Test Suite Results](docs/screenshots/test_suite_demo.png)
+![Test Suite Results](docs/screenshots/test_suite.png)
 
 ---
 
 ### Real Execution Logs
 
-![Terminal Run Demo](docs/screenshots/terminal_run_demo.png)
+![Terminal Run Demo](docs/screenshots/terminal_run.png)
 
 #### 1. Verbose GET Request (`./bcurl -v localhost:9000/index.html`)
 
